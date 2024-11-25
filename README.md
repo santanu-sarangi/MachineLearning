@@ -1,3 +1,1 @@
-Hi Santanu 
-Hi Shreyash
-RKcit
+KNN model for prediction
